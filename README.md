@@ -1,6 +1,6 @@
 # Mobile Flutter Kitchen Sink
 
-## Implementing Following Sections 
+## Implementing Following Sections, Tested in iOS and Android
 
 ###### Login using Flutter Authentification, Email/Password, Google, Facebook
 ###### Using Stream Provider
